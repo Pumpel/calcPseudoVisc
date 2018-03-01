@@ -22,11 +22,7 @@ License
     along with OpenFOAM.  If not, see <http://www.gnu.org/licenses/>.
 
 Application
-    tw_calcShearRate
 
-    The shear rate is calculated as
-    	\dot{gamma} = 0.5 (grad(U) + (grad(U))^T)
-    where ()^T is the transposed.
 
 \*---------------------------------------------------------------------------*/
 
